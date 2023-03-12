@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱Atualmente estou focado nos estudos de JavaScript, enquanto estou cursando Técnico em Desenvolvimento de Sistemas;<br>🔭Procuro-me tornar um desenvolvedor Fullstack.<br>
+🌱Atualmente estou focado nos estudos de JavaScript, enquanto estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas;<br>🔭Procuro-me tornar um desenvolvedor Fullstack.<br>
 
 
 ## 🌐 Socials:
