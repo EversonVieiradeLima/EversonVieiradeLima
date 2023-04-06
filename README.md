@@ -2,9 +2,9 @@ Olá 👋 Meu nome é Éverson Vieira
 ===============================
 
 🌱Atualmente estou focado nos estudos de JavaScript, enquanto estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas;
-<br>
+<br><br>
 🔍Também estou fazendo parte do Projeto Start, parceria da Rede Cidadã e Accenture;
-<br>
+<br><br>
 🔭Procuro-me tornar um desenvolvedor Fullstack.
 
 ### Skills
