@@ -41,7 +41,9 @@ Olá 👋 Meu nome é Éverson Vieira
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EversonVieiradeLima&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <br>
   <img src="https://streak-stats.demolab.com?user=EversonVieiradeLima&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EversonVieiradeLima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
