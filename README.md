@@ -50,6 +50,6 @@ Olá 👋 Meu nome é Éverson Vieira
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/EversonVieiradeLima/Meu-Curriculo-em-Destaque" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EversonVieiradeLima&repo=Meu-Curriculo-em-Destaque&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EversonVieiradeLima/Apeperia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EversonVieiradeLima&repo=Apeperia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center"><a href="https://github.com/EversonVieiradeLima/Fruta-e-Fruto" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EversonVieiradeLima&repo=Fruta-e-Fruto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EversonVieiradeLima/Barbearia-Alura" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EversonVieiradeLima&repo=Barbearia-Alura&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
