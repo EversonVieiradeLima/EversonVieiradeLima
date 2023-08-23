@@ -37,15 +37,13 @@ Olá 👋 Meu nome é Éverson Vieira
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<h3 align="left">Minhas estatísticas do GitHub</h3>
 
-<a href="http://www.github.com/EversonVieiradeLima"><img src="https://github-readme-stats.vercel.app/api?username=EversonVieiradeLima&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EversonVieiradeLima's GitHub stats" /></a>
-
-<a href="http://www.github.com/EversonVieiradeLima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EversonVieiradeLima&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/EversonVieiradeLima"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EversonVieiradeLima&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/EversonVieiradeLima" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonVieiradeLima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EversonVieiradeLima&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=EversonVieiradeLima&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EversonVieiradeLima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 <b>Top Repositories</b>
 
