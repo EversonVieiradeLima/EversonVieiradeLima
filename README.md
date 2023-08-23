@@ -58,7 +58,7 @@ Olá 👋 Meu nome é Éverson Vieira
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <div width="100%" align="center">
   <a href="https://github.com/EversonVieiradeLima/Fruta-e-Fruto" align="left">
