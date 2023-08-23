@@ -37,7 +37,7 @@ Olá 👋 Meu nome é Éverson Vieira
 
 ### Badges
 
-<h3 align="left">Minhas estatísticas do GitHub</h3>
+<b align="left">Minhas estatísticas do GitHub</b>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EversonVieiradeLima&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="180" alt="stats graph"  />
